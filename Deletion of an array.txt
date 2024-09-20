@@ -30,7 +30,7 @@ Enter the size of an array:3
 Enter value: 60
 Enter value: 50
 Enter value: 40
-Enter the Position for deletion: 40
+Enter the Position for deletion: 2
 
  The elements are: 
 60	50	
